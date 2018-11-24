@@ -1,0 +1,22 @@
+body{
+		background-image: url("chat_bg.png");
+}		
+#btn{
+       cursor: pointer;
+}  
+.container{
+	height: 100%;
+} 
+.bottomFixed{
+				position: sticky;
+				bottom: 0;
+}
+.bgColor{
+	      background-color: #f8f1df;
+}
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
